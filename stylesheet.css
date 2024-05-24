@@ -5,4 +5,7 @@ body {
     }
 .main{
     font-size: 1vw;
+    border-width:5vw;
+    border-style:solid;
+    border-color:#0000ff;
 }
