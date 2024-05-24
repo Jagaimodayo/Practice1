@@ -4,7 +4,5 @@ body {
     text-align: center;
     }
 .main{
-    font-size: 1vw;
-    background:linear-gradient(transparent 50%, #4de4f5 0%);
-    width: 100px;
+    font-size: 10vw;
 }
